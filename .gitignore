@@ -30,3 +30,11 @@
 
 # Debug files
 *.dSYM/
+
+*.d
+*.crf
+*.iex
+*.lst
+*.axf
+*.htm
+*.sct
